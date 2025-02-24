@@ -333,6 +333,7 @@ Improved Prompt
 "Describe the current weather in Nairobi, including temperature, humidity, and precipitation."
 
 Explanation
+
 The improved prompt is more effective because it:
 Adds Specificity: By specifying "Nairobi," the user clarifies the location, helping the AI provide relevant weather information.
 Defines Scope: By asking for details about "temperature, humidity, and precipitation," the user specifies the aspects of the weather they are interested in. This ensures the AI's response is comprehensive and covers all necessary details.
